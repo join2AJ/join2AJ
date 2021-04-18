@@ -46,11 +46,7 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 🕵 Take a look at my repositories and let's get in touch!
 
 <p align="left">
-<a href="https://codepen.io/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/15508333/ajay-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13219775/join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/developer.join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="developer.join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
