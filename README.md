@@ -29,7 +29,11 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 - 👯  I’m looking to collaborate on any project
 - 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation
 - ✈️  Hire me for remote work & internships
+
 <br>
+
+#
+
 - 🎉  Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
 - 📭  contact [GITHUB] https://github.com/join2AJ
 <!--
