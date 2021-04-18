@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🎓  I have Completed master's in computer applications
 - 📚  Reading more about how the computer works
 - ⛵  Encouraging people for open source collaborations
+- 💼  Do read my resume here: [](http://)
 -->
 
 #
@@ -27,9 +28,8 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 - 🔭  I’m currently working on new open source project https://github.com/join2AJ/Covid-19TP
 - 👯  I’m looking to collaborate on any project
 - 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation
-- 💼  Do read my resume here: [](http://)
 - ✈️  Hire me for remote work & internships
-
+<br>
 - 🎉  Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
 - 📭  contact [GITHUB] https://github.com/join2AJ
 <!--
