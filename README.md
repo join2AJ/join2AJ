@@ -33,6 +33,7 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 #
 - 🎉  Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
 - 📭  contact [GITHUB] https://github.com/join2AJ
+<br>
 <!--
 **Languages and Tools:**  
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/flutter.svg"></code>&nbsp;
