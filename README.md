@@ -1,4 +1,5 @@
-### Hi there 👋 I am Ajay Kumar. I am a Freelance Programmer and Data Analyst living in India 🇮🇳
+### Hi there 👋  I am Ajay Kumar !
+### I am a Freelance Programmer and Data Analyst living in India 🇮🇳
 
 <!--
 **join2AJ/join2AJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,16 +18,20 @@ Here are some ideas to get you started:
 
 #
 
-I make elegantly professional **🌍 web apps,** and perfrom **💻 Data Analytics** on data 🎨
+I make elegantly professional 🌍 **Web Apps,** and perfrom 💻 **Data Analytics** on data 🎨
 
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on new open source project https://github.com/join2AJ/Covid-19TP
+- 🌱 I’m currently learning Python and Data science
+- 🎓  I have Completed master's in computer applications
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation
+- 📚  Reading more about how the computer works
+- ⛵  Encouraging people for open source collaborations
+- 💼  Do read my resume here: [](http://)
 - ✈️ Hire me for remote work & internships
-- 💼 Do read my resume here: [](http://)
-- 🎓 Performing security automation job in a MNC
-- 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
-- ⛵ Encouraging people for open source collaborations
-- 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
-- 📭 contact [GITHUB] https://github.com/join2AJ
+
+- 🎉  Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
+- 📭  contact [GITHUB] https://github.com/join2AJ
 <!--
 **Languages and Tools:**  
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/flutter.svg"></code>&nbsp;
