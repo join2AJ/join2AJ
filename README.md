@@ -1,4 +1,4 @@
-### Hi there 👋  I am Ajay Kumar !
+### Hi there 👋  I am Ajay Kumar ! 👨‍💻 ![](https://komarev.com/ghpvc/?username=JOIN2AJ&label=Views)
 ### I am a Freelance Programmer and Data Analyst living in India 🇮🇳
 
 <!--
