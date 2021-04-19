@@ -1,7 +1,8 @@
-### Hi there 👋  I am Ajay Kumar ! 👨‍💻 ![](https://komarev.com/ghpvc/?username=JOIN2AJ&label=Views)
+### Hi there 👋  I am Ajay Kumar ! 
 ### I am a Freelance Programmer and Data Analyst living in India 🇮🇳
 
 <!--
+💻 ![](https://komarev.com/ghpvc/?username=JOIN2AJ&label=Views)
 **join2AJ/join2AJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
