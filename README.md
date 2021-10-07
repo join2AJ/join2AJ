@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Ajay Kumar ! 
 ### I am a Freelance Programmer and Data Analyst living in India 🇮🇳
 
-### I am currently working as Security Automation Officer 🧑‍✈️ in worlds largest refinery 😍
+##### I am currently working as Security Automation Officer 🧑‍✈️ in worlds largest refinery 😍
 
 <!--
 💻 ![](https://komarev.com/ghpvc/?username=JOIN2AJ&label=Views)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analytics** on data 🎨
 
 - 🌱  I’m currently learning Python and Data science
-- 🔭  I’m currently working on new open source project https://github.com/join2AJ/Covid-19TP
+- 🔭  I’m currently running head around flask and streamlit
 - 👯  I’m looking to collaborate on any project
 - 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation
 #
