@@ -30,7 +30,7 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 - 🌱  I’m currently learning Python and Data science
 - 🔭  I’m currently running head around flask and streamlit
 - 👯  I’m looking to collaborate on any project
-- 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation
+<!-- - 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation -->
 #
 - ✈️  Hire me for remote work & internships
 #
