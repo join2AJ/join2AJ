@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Ajay Kumar ! 
-### I am a Freelance Programmer and Data Analyst living in India 🇮🇳
+### I'm a Freelance Programmer and Data Analyst living in India 🇮🇳
 
-##### I am currently working as Security Automation Officer 🧑‍✈️ in worlds largest refinery 😍
+##### and currently working as Security Automation Officer 🧑‍✈️ in worlds largest refinery 😍
 
 <!--
 💻 ![](https://komarev.com/ghpvc/?username=JOIN2AJ&label=Views)
@@ -30,13 +30,15 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 - 🌱  I’m currently learning Python and Data science
 - 🔭  I’m currently running head around flask and streamlit
 - 👯  I’m looking to collaborate on any project
+- ✈️  Hire me for remote work **or,**
 <!-- - 🤔  I’m looking for help with one of Wedding Project https://github.com/join2AJ/Wedding_Invitation -->
 #
-- ✈️  Hire me for remote work & internships
-#
+<a href="https://www.buymeacoffee.com/join2aj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 - 🎉  Let's connect on [LinkedIn](https://linkedin.com/in/join2aj)
 - 📭  contact [GITHUB] https://github.com/join2AJ
-<br>
+#
+
 <!--
 **Languages and Tools:**  
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/flutter.svg"></code>&nbsp;
@@ -49,7 +51,7 @@ I make elegantly professional 🌍  **Web Apps,** and perfrom 💻  **Data Analy
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 -->
 🕵 Take a look at my repositories and let's get in touch!
-<br>
+
 <p align="center">
 <a href="https://twitter.com/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/join2aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="join2aj" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
